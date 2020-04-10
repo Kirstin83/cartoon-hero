@@ -30,13 +30,13 @@ header img{
 
 
 main{
-	max-width: 800px;
+	max-width: 1200px;
 	margin: 0 auto;
 	padding: 20px;
 }
 
 main img{
-	max-width: 100%;
+	max-width: 70%;
 }
 h2{
 	font-size: 35px;
@@ -75,7 +75,7 @@ p.caption{
 	font-style: italic;
 	margin-top: 0;
 }
-
+/*writing a comment in CSS file*/
 
 
 
